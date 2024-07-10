@@ -136,7 +136,7 @@
 - [Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement](https://aclanthology.org/2020.coling-main.137)
 
 
-#### <ins>Legal Event Detection</ins>
+### <ins>Legal Event Detection</ins>
 
 #### Lexicon and Rule-based Legal ED Methods
 
