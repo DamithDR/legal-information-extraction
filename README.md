@@ -35,7 +35,7 @@
 | [U lyssesNER-Br](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_1#:~:text=UlyssesNER%2DBr%20was%20created%20from,of%20law%2C%20events%20and%20dates.)                                                                                                                  | DATA, EVENTO, FUNDlei, FUNDapelido, FUNDprojetodelei, FUNDsolicitacaotrabalho, LOCALconcreto, LOCALvirtual, ORGpartido, ORGgovernamental, ORGnaogovernamental, PESSOAindividual, PESSOAgrupoind, PESSOAcargo, PESSOAgrupocargo, PRODUTOsistema, PRODUTOprograma, PRODUTOoutros                                                                                                                                                                 | Brazilian Portuguese | Brazil        | [Yes](https://github.com/ulysses-camara/ulysses-ner-br)                                             |
 | [Kwak et al](https://aclanthology.org/2023.findings-emnlp.287)                                                                                                                   | Testator, Trigger, Condition, Beneficiary, Will, Asset, Executor, Witness, Time, Duty, State, Date, County, Right, Expense, Debt, Bond, Codicil, Trustee, Non-beneficiary, Tax, Affidavit, Notary public, Trust, Guardian, Conservator                                                                                                                                                                 | English               | United States | [Yes](https://github.com/ml4ai/ie4wills)                                                            |
 | [Oliveira et al](https://link.springer.com/article/10.1007/s10506-023-09388-1)                                                                                                                  | contract_number, GDF_process, contractual_parties, contract_object, contract_date, contract_value, contract_duration, budget_unit, work_program, nature_of_expenditure, commitment_note                                                                                                                                                                 | Brazilian Portuguese | Brazil        | No                                                                                                  |
-
+|[Aejas et al](https://link.springer.com/article/10.1007/s00521-024-09869-7) | Title, Parties, EffectiveDate, TermLength, NotificationPeriod, GoverningLaw | English | United States | [Yes](https://drive.google.com/file/d/1cJmqifHzuR8G1bIfeSvncP98exqBnBQM/view)|
 
 ### <ins>Legal Relationship Extraction</ins>
 
@@ -61,7 +61,7 @@
 | [Paulino-Passos et al](https://ceur-ws.org/Vol-3437/paper3LPLR.pdf) | 7                 | -                     | -                    | English    | United States | [Yes](https://zenodo.org/records/8098312)         |
 | [Araujo et al](https://ieeexplore.ieee.org/document/6690716)   | 4                 | -                     | -                    | Portuguese | Brazil        | No                                                |
 | [Kwak et al](https://aclanthology.org/2023.findings-emnlp.287) | 20                | -                     | -                    | English    | United States | [Yes](https://github.com/ml4ai/ie4wills)         |
-
+|[Xian et al](https://link.springer.com/article/10.1007/s00521-024-09907-4) | 7 | 9.9 (on average) | 378 | Chinese | China | No|
 ## 💻 Methods
 
 ### <ins>Legal Named Entity Recognition</ins>
